@@ -7,9 +7,25 @@ import requests
 import logging
 from typing import List, Dict, Optional
 import json
+import os
+from pathlib import Path
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
+# Load environment variables from .env file
+def load_env():
+    """Load environment variables from .env file"""
+    env_path = Path(__file__).parent.parent / '.env'
+    if env_path.exists():
+        with open(env_path, 'r') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#') and '=' in line:
+                    key, value = line.split('=', 1)
+                    os.environ[key.strip()] = value.strip()
+
+load_env()
 
 
 class GoogleSearchAPI:
@@ -25,13 +41,14 @@ class GoogleSearchAPI:
             api_key: Google API key (get from https://console.cloud.google.com/)
             search_engine_id: Custom Search Engine ID (get from https://cse.google.com/)
         """
-        # You need to get your own API key from Google Cloud Console
+        # Load API credentials from environment variables or parameters
+        # To set up: Copy .env.example to .env and add your credentials
         # Visit: https://console.cloud.google.com/apis/credentials
-        self.api_key = api_key or "AIzaSyDthcHR2uvNIsj3Ef29M6vDEIhgfEggX5I"
+        self.api_key = api_key or os.getenv('GOOGLE_API_KEY', 'YOUR_GOOGLE_API_KEY')
         
-        # You need to create a Custom Search Engine
+        # Load Search Engine ID from environment or parameters
         # Visit: https://cse.google.com/cse/
-        self.search_engine_id = search_engine_id or "371c12bd11afc4d8f"
+        self.search_engine_id = search_engine_id or os.getenv('GOOGLE_SEARCH_ENGINE_ID', 'YOUR_SEARCH_ENGINE_ID')
         
         self.base_url = "https://www.googleapis.com/customsearch/v1"
         

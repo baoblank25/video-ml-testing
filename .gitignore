@@ -1,0 +1,112 @@
+# API Keys and Credentials
+.env
+.env.local
+config.ini
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+.virtualenvs/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data and Downloads
+data/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Preprocessed files
+preprocessed/
+frames/
+extracted_frames/
+
+# Model files (if large)
+*.pth
+*.pt
+*.onnx
+*.pb
+models/weights/
+checkpoints/
+
+# Results and outputs
+results/
+output/
+*.json
+!requirements.txt
+enhanced_results_*.json
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Jupyter Notebooks (optional)
+.ipynb_checkpoints/
+*.ipynb
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
