@@ -1,0 +1,64 @@
+{
+  "videos": [
+    {
+      "video_title": "making a matcha latte at home 🍵",
+      "video_description": "matcha latte at home 🍵 ~\n\nMaking myself a cup of matcha is one of the things I look forward to most in the morning. It’s almost peaceful, in a way - and I feel so energized after.\n\nThe most important ",
+      "duration": 22,
+      "product_identification": {
+        "product_name": null,
+        "brand": null,
+        "model": null,
+        "category": null,
+        "confidence": 0.0
+      },
+      "keywords": {
+        "top_keywords": [],
+        "brands_mentioned": [],
+        "product_types": [],
+        "specifications": []
+      },
+      "content_analysis": {
+        "content_type": "showcase",
+        "main_topics": [],
+        "sentiment": "neutral",
+        "description": "This appears to be a showcase video with a neutral tone."
+      },
+      "summary": "Video: 'making a matcha latte at home 🍵' This is a showcase video about a tech product.",
+      "detailed_results": {
+        "visual_classification": {
+          "most_common_category": null,
+          "most_common_product": null,
+          "confidence": 0.0,
+          "frame_results": [],
+          "summary": null
+        },
+        "text_extraction": {
+          "all_text": [],
+          "high_confidence_text": [],
+          "keyword_counts": {},
+          "categorized_keywords": {
+            "brands": [],
+            "product_types": [],
+            "specifications": [],
+            "model_identifiers": [],
+            "other": []
+          },
+          "summary": "No significant keywords detected"
+        },
+        "brand_identification": {
+          "brand": null,
+          "model": null,
+          "full_name": null
+        }
+      },
+      "video_index": 1,
+      "url": "https://www.youtube.com/shorts/MzIen6fSQwA"
+    },
+    {
+      "error": "<method 'read' of 'cv2.VideoCapture' objects> returned a result with an exception set",
+      "video_index": 2,
+      "url": "https://www.youtube.com/shorts/9tMTeEMrpOM"
+    }
+  ],
+  "total_analyzed": 2
+}

@@ -1,0 +1,217 @@
+{
+  "video_info": {
+    "title": "making a matcha latte at home 🍵",
+    "description": "matcha latte at home 🍵 ~\n\nMaking myself a cup of matcha is one of the things I look forward to most in the morning. It’s almost peaceful, in a way - and I feel so energized after.\n\nThe most important ingredient is, of course, the matcha. You want to use the highest quality for drinking, which is ceremonial grade. It is pricy, but you’re going to save so much money compared to spending $8 each time at a cafe.\n\n* the matcha I’m using is from @tenzotea — you can use my code for a discount! JASMINE15\n-- https://tenzotea.co/\n\nFor today's matcha I used soy milk with a splash of homemade maple syrup (the best kind). On most days though, I’ll drink it the traditional way with just water and matcha. Experiment and see which flavor combinations you like best!\n\n\nwritten recipes \nhttps://jasmineandtea.com/\n\nlink to ingredients\nhttps://www.amazon.com/shop/jasmineandtea\n\ninstagram\nhttps://www.instagram.com/jasmineandtea/\n\n🍵",
+    "duration": 22,
+    "view_count": 8908799,
+    "uploader": "jasmineandtea",
+    "tags": [
+      "matcha powder",
+      "matcha latte",
+      "matcha green tea",
+      "how to make matcha",
+      "matcha recipe",
+      "iced green tea latte",
+      "matcha latte at home",
+      "green tea",
+      "how to make a latte",
+      "how to make a matcha latte",
+      "matcha latte starbucks",
+      "matcha latte benefits",
+      "how to make matcha latte starbucks",
+      "matcha latte recipe",
+      "matcha latte iced",
+      "matcha latte hot",
+      "how to make matcha iced latte",
+      "matcha recipes drinks",
+      "matcha recipes tiktok",
+      "matcha recipes healthy",
+      "how to make a latte at home",
+      "green tea shot"
+    ],
+    "categories": [
+      "People & Blogs"
+    ]
+  },
+  "product_identification": {
+    "product_name": "Tenzo Tea Matcha",
+    "brand": "Tenzo Tea",
+    "model": "Matcha",
+    "category": "Matcha/Beverages",
+    "confidence": 0.9,
+    "ensemble_predictions": [
+      {
+        "label": "screen, monitor",
+        "confidence": 0.024377906695008278,
+        "category": "Displays"
+      }
+    ]
+  },
+  "keywords": {
+    "all_text": [],
+    "high_confidence_text": [],
+    "keyword_counts": {},
+    "categorized_keywords": {
+      "brands": [],
+      "product_types": [],
+      "specifications": [],
+      "model_identifiers": [],
+      "other": []
+    },
+    "summary": "No significant keywords detected"
+  },
+  "content_analysis": {
+    "content_type": "showcase",
+    "main_topics": [],
+    "sentiment": "neutral",
+    "description": "This appears to be a showcase video with a neutral tone."
+  },
+  "color_analysis": {
+    "average_color_distribution": {
+      "Orange": 17.419974119084358,
+      "Gray": 16.09200183256173,
+      "Yellow": 15.192539544753087,
+      "Green": 14.69806134259259,
+      "White": 13.572651427469134,
+      "Red": 12.6855066872428,
+      "Black": 7.608949009773663,
+      "Cyan": 0.12758005401234568,
+      "Blue": 0.07687917952674897,
+      "Pink": 0.000647022890946502,
+      "Purple": 0.0
+    },
+    "top_colors": [
+      "Orange",
+      "Gray",
+      "Yellow"
+    ],
+    "overall_tone": "Neutral/Professional",
+    "mood_descriptors": [
+      "vibrant",
+      "creative",
+      "neutral",
+      "professional",
+      "cheerful"
+    ],
+    "dominant_palette": [
+      {
+        "hex": "#dcd9d4",
+        "rgb": [
+          "220",
+          "217",
+          "212"
+        ],
+        "frequency": 0.08333333333333333
+      },
+      {
+        "hex": "#c0a794",
+        "rgb": [
+          "192",
+          "167",
+          "148"
+        ],
+        "frequency": 0.08333333333333333
+      },
+      {
+        "hex": "#1f1716",
+        "rgb": [
+          "31",
+          "23",
+          "22"
+        ],
+        "frequency": 0.08333333333333333
+      },
+      {
+        "hex": "#988170",
+        "rgb": [
+          "152",
+          "129",
+          "112"
+        ],
+        "frequency": 0.08333333333333333
+      },
+      {
+        "hex": "#51433c",
+        "rgb": [
+          "81",
+          "67",
+          "60"
+        ],
+        "frequency": 0.08333333333333333
+      }
+    ],
+    "color_scheme": "Warm Palette"
+  },
+  "event_predictions": {
+    "primary_events": [
+      "General Product Expo",
+      "Trade Show",
+      "Business Conference"
+    ],
+    "secondary_events": [
+      "Corporate Event",
+      "Halloween Event",
+      "Autumn Fair"
+    ],
+    "seasonal_events": [
+      "Halloween Event",
+      "Autumn Fair"
+    ],
+    "all_suitable_events": [
+      "General Product Expo",
+      "Trade Show",
+      "Business Conference",
+      "Corporate Event",
+      "Halloween Event",
+      "Autumn Fair"
+    ],
+    "description": "This Matcha/Beverages with its neutral/professional color tone and vibrant, creative, neutral aesthetic would be perfect for events like General Product Expo. It's particularly suitable for Halloween Event. ",
+    "best_match": "General Product Expo"
+  },
+  "google_enhanced": {
+    "product_name": "Tenzo Tea Matcha",
+    "brand": "Tenzo Tea",
+    "confidence": 0.8,
+    "google_verified": true,
+    "enhanced_description": "Matcha is finely ground powder of specially grown green tea leaves, popular for its health benefits and unique flavor.",
+    "search_results": [
+      {
+        "title": "Matcha Green Tea - Premium Japanese Tea",
+        "link": "https://example.com/matcha",
+        "snippet": "Matcha is finely ground powder of specially grown green tea leaves, popular for its health benefits and unique flavor.",
+        "specifications": "Ceremonial grade, Culinary grade, Rich in antioxidants",
+        "category": "Beverages",
+        "source": "fallback_database"
+      },
+      {
+        "title": "Green Tea - Traditional Tea",
+        "link": "https://example.com/green-tea",
+        "snippet": "Green tea is made from Camellia sinensis leaves, known for health benefits and natural antioxidants.",
+        "specifications": "Various grades, Hot or cold brew",
+        "category": "Beverages",
+        "source": "fallback_database"
+      }
+    ],
+    "confidence_adjusted": 0.9,
+    "brand_confirmed": false,
+    "specifications_found": [
+      "Ceremonial grade, Culinary grade, Rich in antioxidants",
+      "Various grades, Hot or cold brew"
+    ]
+  },
+  "summary": {
+    "title": "Analysis: making a matcha latte at home 🍵",
+    "executive_summary": "This is a showcase video featuring Tenzo Tea Matcha, categorized as Matcha/Beverages. The product was identified with high confidence (90.0%). The video has a neutral/professional color tone. ",
+    "product_details": "**Product:** Tenzo Tea Matcha\n**Brand:** Tenzo Tea\n**Model:** Matcha\n**Category:** Matcha/Beverages\n\n**Description:** Matcha is finely ground powder of specially grown green tea leaves, popular for its health benefits and unique flavor.\n**Specifications:** Ceremonial grade, Culinary grade, Rich in antioxidants, Various grades, Hot or cold brew",
+    "visual_analysis": "The video features a **Neutral/Professional** color palette dominated by Orange, Gray, Yellow tones. This creates a vibrant, creative, neutral aesthetic. The overall color scheme is warm palette.",
+    "content_description": "This showcase has a neutral tone. ",
+    "key_features": [
+      "Ceremonial grade, Culinary grade, Rich in antioxidants",
+      "Various grades, Hot or cold brew"
+    ],
+    "target_audience": "Health-Conscious Consumers, Beverage Enthusiasts, Lifestyle Seekers, Business Professionals",
+    "suitable_events": "This Matcha/Beverages with its neutral/professional color tone and vibrant, creative, neutral aesthetic would be perfect for events like General Product Expo. It's particularly suitable for Halloween Event. ",
+    "mood_and_tone": "The video projects a **neutral** sentiment with a **Neutral/Professional** visual tone. The overall mood is vibrant, creative, neutral, professional, making it visually appealing and engaging to viewers.",
+    "complete_narrative": "This is a showcase video featuring Tenzo Tea Matcha, categorized as Matcha/Beverages. The product was identified with high confidence (90.0%). The video has a neutral/professional color tone. \n\n**PRODUCT INFORMATION**\n**Product:** Tenzo Tea Matcha\n**Brand:** Tenzo Tea\n**Model:** Matcha\n**Category:** Matcha/Beverages\n\n**Description:** Matcha is finely ground powder of specially grown green tea leaves, popular for its health benefits and unique flavor.\n**Specifications:** Ceremonial grade, Culinary grade, Rich in antioxidants, Various grades, Hot or cold brew\n\n**VISUAL ANALYSIS**\nThe video features a **Neutral/Professional** color palette dominated by Orange, Gray, Yellow tones. This creates a vibrant, creative, neutral aesthetic. The overall color scheme is warm palette.\n\n**CONTENT ANALYSIS**\nThis showcase has a neutral tone. \n\n**KEY FEATURES MENTIONED**\n  • Ceremonial grade, Culinary grade, Rich in antioxidants\n  • Various grades, Hot or cold brew\n\n**MOOD & TONE**\nThe video projects a **neutral** sentiment with a **Neutral/Professional** visual tone. The overall mood is vibrant, creative, neutral, professional, making it visually appealing and engaging to viewers.\n\n**TARGET AUDIENCE:** Health-Conscious Consumers, Beverage Enthusiasts, Lifestyle Seekers, Business Professionals\n\n**SUITABLE EVENTS**\nThis Matcha/Beverages with its neutral/professional color tone and vibrant, creative, neutral aesthetic would be perfect for events like General Product Expo. It's particularly suitable for Halloween Event. \nPrimary events: General Product Expo, Trade Show, Business Conference\nSeasonal opportunities: Halloween Event, Autumn Fair\n\n**CONCLUSION**\nThis video effectively showcases Tenzo Tea Matcha through engaging visuals and this showcase has a neutral tone. The the video features a **neutral/professional** color palette dominated by orange, gray, yellow tones makes it ideal for health-conscious consumers and similar audiences."
+  }
+}
